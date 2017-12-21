@@ -1,0 +1,33 @@
+body {
+  font-family: Helvetica;
+}
+
+h1 {
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#header {
+  color: khaki;
+  font-size: 100px;
+  text-align: center;
+  background-image: url("/Users/pigottd/Documents/Dasmotos/resources/Image1.jpeg")
+}
+
+#brush {
+  background-color: mediumspringgreen;
+}
+
+#frame {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: skyblue;
+}
+
+#price {
+  color: blue;
+  font-weight: bold;
+}
